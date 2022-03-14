@@ -1,0 +1,19 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+}
+html {
+	width: 100%;
+	max-width: 900px;
+	margin: 0 auto;
+	scroll-behavior: smooth;
+}
+.btn-refresh {
+	width: 100%;
+	background: linear-gradient(102.65deg, #39a08f 9.21%, #3d0781 73.15%);
+	border: 3pt solid #37ed96;
+	padding: 0.5rem;
+	border-radius: 1rem;
+	font-size: 1.2rem;
+	color: #fff;
+	cursor: pointer;
+}
