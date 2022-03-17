@@ -1,0 +1,36 @@
+[
+  {
+    "cat" : "Pursed",
+    "title" : "Pursed lip breathing",
+    "description" : "<p>According to the <a href=\"http://my.clevelandclinic.org/health/articles/pursed-lip-breathing\" target=\"blank\">Cleveland Clinic</a>, pursed lip breathing has a range of benefits:</p><ul><li>It’s been shown to reduce how hard you have to work to breathe.</li><li>It helps release air trapped in the lungs.</li><li>It promotes relaxation.</li><li>It reduces shortness of breath.</li></ul><p>Practicing this technique 4 to 5 times daily can help. Here’s how to practice pursed lip breathing:</p><ul><li>While keeping your mouth closed, take a deep breath in through your nose, counting to 2. Follow this pattern by repeating in your head “inhale, 1, 2.” The breath doesn’t have to be deep. A typical inhale will do.</li><li>Put your lips together as if you’re starting to whistle or blow out candles on a birthday cake. This is known as “pursing” your lips.</li><li>While continuing to keep your lips pursed, slowly breathe out by counting to 4. Don’t try to force the air out, but instead breathe out slowly through your mouth.</li></ul><p><strong>Exercise tip: </strong>Pursed lip breathing is best for performing strenuous activities, such as climbing stairs.</p>",
+    "steps" : [
+      {
+        "subtitle": "Inhale, One, Two",
+        "timer" : 2
+      },
+      {
+        "subtitle": "Purse your lips",
+        "timer" : 2
+      },
+      {
+        "subtitle": "Breath out slowly",
+        "timer" : 2
+      }
+    ]
+  },
+  {
+    "cat" : "Coordinated",
+    "title" : "Coordinated breathing",
+    "description" : "<p>Feeling short of breath can cause anxiety that makes you hold your breath. To prevent this from occurring, you can practice coordinated breathing using these two steps:</p><ul><li>Inhale through your nose before beginning an exercise.</li><li>While pursing your lips, breathe out through your mouth during the most strenuous part of the exercise. An example could be when curling upward on a bicep curl.</li></ul><p><strong>Exercise tip: </strong>Coordinated breathing can be performed when you’re exercising or feeling anxious.</p>",
+    "steps" : [
+      {
+        "subtitle": "Inhale through your nose",
+        "timer" : 2
+      },
+      {
+        "subtitle": "Purse your lips, breathe out",
+        "timer" : 4
+      }
+    ]
+  }
+]
